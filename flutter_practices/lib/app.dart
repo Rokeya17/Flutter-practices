@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_practices/View/task_1.dart';
 import 'package:flutter_practices/View/task_2.dart';
 
 class FlutterApp extends StatelessWidget {
